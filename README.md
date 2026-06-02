@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- Pursuing **MCA** at Osmania University, Telangana
+- Pursuing **B-Tech** at Vignan Institute Of Technology and Science, Telangana
 - Passionate about building scalable web applications and solving real-world problems
 - Strong foundation in **MERN Stack**, Python, and modern web technologies
 - Hackathon participant (MLRU Hackathon 2026)
